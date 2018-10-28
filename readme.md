@@ -40,6 +40,9 @@ figure out which places I would like to live. Here are some criteria.
 
 [csapop]: https://www.census.gov/data/tables/2017/demo/popest/total-metro-and-micro-statistical-areas.html
 [cbsadel]: https://www.census.gov/geographies/reference-files/time-series/demo/metro-micro/delineation-files.html
+[usgstnm]: https://viewer.nationalmap.gov/basic/
+[fieldguide]: https://hexagongeospatial.fluidtopics.net/reader/uOKHREQkd_XR9iPo9Y_Ijw/khBQoaH4ne8R6PVMWZ7Ubw
+[gisformats]: https://www.loc.gov/preservation/digital/formats/fdd/gis_fdd.shtml
 
 * [US CSA Population Estimates][csapop]
     * I've found Combined Statistical Area population figures to be a very good
@@ -51,3 +54,14 @@ figure out which places I would like to live. Here are some criteria.
       with similar CSA populations will usually give you the same "feel".
     * In conjuction with this data use [CBSA Delineation Files][cbsadel] to break
       down location data further.
+
+* [USGS TNM][usgstnm]
+    * A dense resource for many kinds of GIS data that can be searched filtered
+      and sometimes previewed on a the map. Great for finding elevation,
+      land coverage, transportation, and tons of other geographic data.
+    * Alongside this resource I've found the [Producer Field Guide][fieldguide]
+      to be a great resource for learning more about GIS data, how it's commonly
+      structured, and how to use it.
+    * One more useful link is the [Library of Congress GIS Formats][gisformats]
+      page. They have nice high level descriptions of many of the common GIS
+      data file formats and even some information on how to use them.
